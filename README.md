@@ -44,9 +44,10 @@ project/
 ├── notebooks/              
 │   └── ML_Proyek_234311042.ipynb
 │
-├── src/                    # Source code
+├── src/
+│    └── Laporan Proyek Machine Learning.docx 
 │   
-├── models/                 # Saved models
+├── models/
 │   ├── model_baseline.pkl
 │   ├── model_rf.pkl
 │   └── model_cnn.h5
