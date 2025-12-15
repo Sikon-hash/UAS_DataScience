@@ -34,6 +34,7 @@ Goals
 2.  Membandingkan performa pendekatan Machine Learning tradisional (TF-IDF + Random Forest) dengan Deep Learning (Embedding + Neural Network).
 3.  Menghasilkan visualisasi wawasan data (*Data Insights*) seperti WordCloud dan korelasi fitur.
 📁 Struktur Folder
+```
 project/
 │
 ├── data/
@@ -60,6 +61,7 @@ project/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 3. 📊 Dataset
 •	Sumber: https://www.google.com/search?q=DrugLib.com (Tersedia di UCI ML Repository)
