@@ -6,8 +6,8 @@
 - **NIM:** 234311042
 - **Mata Kuliah:** Data Science
 - **Dosen Pengampu:** Gus Nanang Syaifuddiin, S.Kom., M.Kom
-- **Repo:** [Masukkan Link Repository GitHub Anda Di Sini]
-- **Video:** [Masukkan Link Video Penjelasan Di Sini - Jika Ada]
+- **Repo:** [[Masukkan Link Repository GitHub Anda Di Sini](https://github.com/Sikon-hash/UAS_DataScience)]
+- **Video:** [[Masukkan Link Video Penjelasan Di Sini - Jika Ada](https://youtu.be/yA_mpQ6ZRmY)]
 
 ---
 
